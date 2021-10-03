@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-Welkom bij de i&i conferentie-site 2021.
+Welkom bij de i&i conferentie-site 2021, met als thema "Coderen in de klas".
 Hier vind je het programma, en later de presentaties en andere materialen.
 
 De conferentie vindt plaats op donderdag 11 november, van 10:00-18:00 uur???
@@ -16,8 +16,14 @@ Dit is uitstekend bereikbaar via het OV, zoals met de Uithoflijn (tram 22, 12 mi
 
 ## Kosten en aanmelden
 
-De kosten van de conferentie zijn .. Euro; voor studenten .. Euro.
-Aanmelden via het formulier  <<link>>.
+De kosten van de conferentie zijn:
+
+* voor i&i leden: 160 Euro (na 1 november 195 Euro)
+* voor niet i&i-leden: 200 Euro (na 1 november 245 Euro)
+* voor studenten/docenten in opleiding: 55 Euro (na 1 november 90 Euro)
+* (het i&i lidmaatschap is 35 Euro per jaar)
+
+Aanmelden via het [formulier](https://www.smink-registratie.nl/ieni/){:target="_blank"}  .
 
 ## Programma
 
