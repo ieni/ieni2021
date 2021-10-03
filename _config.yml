@@ -9,11 +9,14 @@ baseurl:             '/ieni2021'
 paginate:            5
 permalink:           none
 
+
 # About/contact
 author:
   name:              Eelco Dijkstra
   url:               https://ieni.org
   email:             eelco@infvo.com
+github:
+  repo:  https://github.com/ieni/ieni2021
 
 # Gems
 plugins:
