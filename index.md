@@ -6,6 +6,8 @@ layout: home
 title: Home
 ---
 
+# CONCEPT - hieraan kunnen geen rechten ontleend worden
+
 Welkom bij de i&i conferentie-site 2021, met als thema "Coderen in de klas".
 Hier vind je het programma, en later de presentaties en andere materialen.
 
