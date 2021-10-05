@@ -4,7 +4,7 @@ spreker : "Rene de Wildt (Instruct)"
 layout: algemeen
 ---
 
-*Bouw je eigen robot en doe mee!*
+**Bouw je eigen robot en doe mee!**
 
 We nemen je mee naar Planet Robot! 
 We laten met een mobiele robot-arena zien hoe zelfgemaakte robots tegen elkaar strijden. 

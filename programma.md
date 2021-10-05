@@ -6,13 +6,13 @@ title: Programma
 link naar het overzicht
 
 *Hieronder vind je de samenvattingen van de sessies.
-Voor elke sessie is er een pagina met meer informatie.*
+Meer informatie per sessie vind je via het menu links.*
 
 ## Keynote
 
 ## Algemeen
 
-### Coderen in de klas: Good Practices
+### [Coderen in de klas: Good Practices](algemeen/coderen-dominique)
 
 *Dominique de Hon (Cosmicus)*
 
@@ -24,7 +24,7 @@ Docenten van twee verschillende scholen vertellen over het vak coderen en leerli
 Kortom: een informatieve en interactieve workshop met afsluitend een activiteit georganiseerd door leerlingen.
 
 
-### Sonic Pi: leren programmeren met muziek
+### [Sonic Pi: leren programmeren met muziek](algemeen/sonic-pi-victoria)
 
 *Victoria Ávila Navarro*
 
@@ -43,7 +43,7 @@ In deze workshop gaan we:
 
 (Graag eerst Sonic Pi installeren en een koptelefoon meenemen.)
 
-### Planet Robot: bouw jouw eigen robot en doe mee!
+### [Planet Robot: bouw jouw eigen robot en doe mee!](algemeen/planet-robot-rene)
 
 *René de Wild (Instruct)*
 
@@ -55,7 +55,7 @@ DO-IT, De Koninklijke Marine, Dutch Robot Games, College de Brink, Scholen aan Z
 
 ## Informatica
 
-### Algoritmes in context
+### [Algoritmes in context](informatica/algoritmes-jacqueline)
 
 *Jacqueline Nijenhuis-Voogt*
  
@@ -79,11 +79,7 @@ In deze workshop gaan we kijken wat dit onderzoek heeft opgeleverd voor het onde
 Daarbij is ook aandacht voor twee lesactiviteiten die in dit onderzoek zijn gebruikt 
 en die als extra activiteit bij bijvoorbeeld de keuzemodule over Algoritmiek (domein G) ingezet kunnen worden.
 
-### Eerste stappen in de AI
 
-(workshop van Jasper Dukers)
-
-* [meer informatie](informatica/ai_jasper.html)
 
 ## Digitale geletterdheid
 
