@@ -31,7 +31,7 @@ Aanmelden via het [formulier](https://www.smink-registratie.nl/ieni/){:target="_
 
 De samenvattingen van de sessies vind je onder [Programma]({{'/programma.html' | relative_url}}){:target="_blank"}
 
-[<img src="{{'assets/ieni2021-programma-v0.png' | relative_url}}" width="700">]({{'assets/ieni2021-programma-v0.png' | relative_url}}){:target="_blank"}
+[<img src="{{'assets/ieni2021-programma-v1.png' | relative_url}}" width="700">]({{'assets/ieni2021-programma-v0.png' | relative_url}}){:target="_blank"}
 
 ## Sponsoren
 
