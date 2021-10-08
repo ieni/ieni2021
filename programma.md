@@ -79,8 +79,36 @@ In deze workshop gaan we kijken wat dit onderzoek heeft opgeleverd voor het onde
 Daarbij is ook aandacht voor twee lesactiviteiten die in dit onderzoek zijn gebruikt 
 en die als extra activiteit bij bijvoorbeeld de keuzemodule over Algoritmiek (domein G) ingezet kunnen worden.
 
+### [Aan de slag met Cognitive Computing](informatica/cognitive-computing-jasper)
 
+*Michiel Smits (PCC) en Jasper Dukers (PCC, Universiteit van Amsterdam)*
+ 
+Het kan een uitdaging zijn om leerlingen praktisch met cognitive computing aan de slag te laten gaan. 
+Onze focus is niet op het programmeren, maar meer op de achterliggende concepten van cognitive computing. 
+De toegevoegde waarde van het zelf ontwikkelde materiaal komt vooral in uiting in de vele unplugged activiteiten en interactieve visuals. 
+Het materiaal is in principe ontwikkeld voor 5 en 6 vwo, 
+echter laten sommige delen zich prima gebruiken in havo 5. 
+Het lesmateriaal wordt openbaar gemaakt zodat docenten hier zelf ook met hun leerlingen mee aan de slag kunnen. 
+De onderwerpen die behandeld worden zijn: pathfinding, optimalisatie, Q-learning en neurale netwerken.
+ 
+Tijdens de sessie laten we het materiaal zien en doen we een aantal unplugged-activities.
 
 ## Digitale geletterdheid
 
+### [Beroepsoriëntatie VMBO met het praktijkgerichte programma informatietechnologie](dg/beroepsorientatie-vmbo)
+
+*Victor Schmidt (SLO)*
+ 
+Momenteel wordt er door achttien pilotscholen met ondersteuning van SLO en SPV gewerkt 
+aan een praktijkgericht programma informatietechnologie. 
+Wat is dat? 
+Een praktijkgericht programma maakt vanaf 2024 voor alle tl- en gl-leerlingen - 
+die samen een nieuwe leerweg gaan vormen - deel uit van het examen. 
+In een dergelijk programma oriënteren leerlingen zich op werk en beroep. 
+Een voorbeeld van een praktijkgericht programma is Technologie & toepassing. 
+Er komen nu ook andere praktijkgericht programma’s, waaronder één voor informatietechnologie.
+Bij dit programma oriënteren leerlingen zich op werk en beroep met behulp van praktische en realistische opdrachten in de informatietechnologie. 
+Denk aan ontwikkeling van een virtuele rondtoer door de binnenstad voor de middenstandsvereniging in je stad of 
+een wildcamera programmeren voor de plaatselijke boswachterij. 
+In deze presentatie laten we je kennis maken met dit nieuwe verschijnsel in het vmbo.
 

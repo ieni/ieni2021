@@ -1,8 +1,10 @@
 ---
-title: "Coderen in de klas: Good Practices"
+title: "Coderen in de klas"
 spreker: "Dominique de Hon (Cosmicus)"
 layout: algemeen
 ---
+
+**Coderen in de klas: Good Practices**
 
 Ben jij benieuwd hoe docenten op de middelbare school lesgeven in coderen? 
 Welke methoden gebruiken zij? 
