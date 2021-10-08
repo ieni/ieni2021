@@ -53,6 +53,16 @@ Daarnaast hebben we aandacht voor het ontwerp- en bouwproces en vertellen we je 
 Planet Robot komt tot stand door een unieke samenwerking tussen Uitgeverij Instruct, 
 DO-IT, De Koninklijke Marine, Dutch Robot Games, College de Brink, Scholen aan Zee en B-Bot.nl.
 
+### [De schoonheid en vreugde van BJOC](algemeen/bjoc-kole)
+
+*Casper Kole*
+ 
+Bij BJOC (Beauty & Joy of Computing) schrijf je programma's met behulp van de Snap!-programmeertaal. 
+Je leert programmeren door te doen. 
+Je ziet snel vorderingen en je leert de krachtigste concepten uit de informatica. 
+Ook leer je om je creatief denkvermogen te gebruiken. 
+Daarnaast denk je na over de maatschappelijke gevolgen van informatica.
+
 ## Informatica
 
 ### [Algoritmes in context](informatica/algoritmes-jacqueline)
