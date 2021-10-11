@@ -6,27 +6,29 @@ layout: home
 title: Home
 ---
 
-Welkom bij de i&i conferentie-site 2021.
+Welkom bij de i&i conferentie-site 2021, met als thema "Coderen in de klas".
 Hier vind je het programma, en later de presentaties en andere materialen.
 
-De conferentie vindt plaats op donderdag 11 november, van 10:00-18:00 uur???
+De conferentie vindt plaats op donderdag 11 november, van 9:00-17:30 uur.
 
 De locatie is het Victor J. Koningsberger-gebouw, Budapestlaan 4a-b, 3584 CD Utrecht, op de Uithof (Utrecht Science Park).
 Dit is uitstekend bereikbaar via het OV, zoals met de Uithoflijn (tram 22, 12 min. van Utrecht CS centrumzijde naar de Uithof.)
 
 ## Kosten en aanmelden
 
-De kosten van de conferentie zijn .. Euro; voor studenten .. Euro.
-Aanmelden via het formulier  <<link>>.
+De kosten van de conferentie zijn:
+
+* voor i&i leden: 160 Euro (na 1 november 195 Euro)
+* voor niet i&i-leden: 200 Euro (na 1 november 245 Euro)
+* voor studenten/docenten in opleiding: 55 Euro (na 1 november 90 Euro)
+* (het i&i lidmaatschap is 35 Euro per jaar)
+
+Aanmelden kan via het [formulier](https://www.smink-registratie.nl/ieni/){:target="_blank"} .
 
 ## Programma
 
 De samenvattingen van de sessies vind je onder [Programma]({{'/programma.html' | relative_url}}){:target="_blank"}
+en via het menu in de linker zijbalk.
+ 
+*Deze lijst met sessies is nog niet volledig: binnenkort meer. Houd deze site in de gaten!*
 
-[<img src="{{'/public/images/programma-6-nov-2019.png' | relative_url}}" width="700">]({{'/public/images/programma-6-nov-2019.pdf' | relative_url}}){:target="_blank"}
-
-## Sponsoren
-
-Onze sponsoren leveren een belangrijke bijdrage aan het totstandkomen van deze conferentie.
-
-<img src="{{'/public/images/sponsoren-2019-a.jpg' | relative_url}}" width="700">

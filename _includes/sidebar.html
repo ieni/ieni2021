@@ -11,7 +11,7 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
     <a class="sidebar-nav-item{% if page.title == 'Programma' %} active{% endif %}" href="{{ '/programma' | absolute_url }}">Programma</a>
-
+    <a class="sidebar-nav-item" href="https://www.smink-registratie.nl/ieni/" target="_blank">Aanmelden</a>
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -21,7 +21,7 @@
     <a class="sidebar-nav-item{% if page.title == "Nieuws" %} active{% endif %}" href="{{ site.baseurl }}/nieuws.html">Nieuws</a>
     {% endcomment %}
     
-    <span class="sidebar-nav-item">Algemeen:</span>
+    <span class="sidebar-nav-item">Sessies:</span>
     {% assign algemeen_list = site.algemeen %}
     {% for node in algemeen_list %}
       {% if node.title != null %}
@@ -35,7 +35,7 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-    
+{% comment %}    
     <span class="sidebar-nav-item">Informatica:</span>
     {% assign informatica_list = site.informatica %}
     {% for node in informatica_list %}
@@ -52,7 +52,7 @@
     {% endfor %}
     
     <span class="sidebar-nav-item">Digitale geletterdheid:</span>
-    {% assign dg = site.dg %}
+    {% assign dg_list = site.dg %}
     {% for node in dg_list %}
       {% if node.title != null %}
         {% if node.layout == "dg" %}
@@ -65,7 +65,7 @@
         {% endif %}
       {% endif %}
     {% endfor %}         
-
+{% endcomment %}
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
       {% if node.title != null %}
