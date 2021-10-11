@@ -63,6 +63,23 @@ Je ziet snel vorderingen en je leert de krachtigste concepten uit de informatica
 Ook leer je om je creatief denkvermogen te gebruiken. 
 Daarnaast denk je na over de maatschappelijke gevolgen van informatica.
 
+---
+### [Databases voor iedereen](algemeen/databases-eelco)
+
+*Eelco Dijkstra*
+
+Databases vind je vanouds als hulpmiddel voor andere programma's, bijvoorbeeld voor een website. 
+Maar tegenwoordig kom je databases ook tegen als zelfstandige toepassing, 
+te vergelijken met spreadsheets en tekstverwerking. 
+Voorbeelden hiervan zijn [Airtable](https://airtable.com){:target="_blank"}, 
+[Notion](https://notion.so){:target="_blank"} en [Coda](https://coda.io){:target="_blank"}. 
+Door het gebruik van een spreadsheet-achtig interface en een "no code" of "low code" aanpak hebben deze een lage drempel. 
+Leerlingen (en docenten) kunnen dergelijke databases direct gebruiken in hun school- en thuisomgeving. 
+Bovendien leren ze aan de hand hiervan ook een aantal principes van databases. 
+
+In deze workshop behandelen we eerst de belangrijkste principes van deze database-toepassingen. 
+Daarna gaan we aan de slag met Notion.
+
 ## Informatica
 
 ### [Algoritmes in context](informatica/algoritmes-jacqueline)
@@ -102,6 +119,21 @@ Het lesmateriaal wordt openbaar gemaakt zodat docenten hier zelf ook met hun lee
 De onderwerpen die behandeld worden zijn: pathfinding, optimalisatie, Q-learning en neurale netwerken.
  
 Tijdens de sessie laten we het materiaal zien en doen we een aantal unplugged-activities.
+
+### [Fysica van Physical Computing](informatica/physical-computing-eelco)
+
+*Werkgroep Physical Computing*
+
+Bij het keuzethema Physical Computing komen "programmeren" en "fysica" bij elkaar. 
+Naast een programma heb je vaak een bijbehorende hardware-schakeling nodig. 
+Voor het foutzoeken in zo'n schakeling, van jezelf of van je leerlingen, 
+helpt een basisbegrip van elektronica. 
+In deze "hands on" workshop leer je omgaan met begrippen als spanning, stroom en weerstand, 
+en werk je aan basisschakelingen met LEDs, drukknoppen, potmeters, transistoren en motortjes. 
+Daarnaast komen allerlei handige tips aan bod hoe je Physical Computing op school kunt organiseren.
+
+Deze workshop wordt gepresenteerd door de werkgroep Physical Computing:
+als je enthousiast bent over dit onderwerp, doe dan ook mee!
 
 ## Digitale geletterdheid
 
