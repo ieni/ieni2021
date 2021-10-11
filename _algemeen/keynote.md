@@ -3,4 +3,4 @@ layout: algemeen
 title: Keynote
 ---
 
-Beschrijving van de keynote; spreker; evt. slides.
+De spreker van de keynote wordt later bekend gemaakt.

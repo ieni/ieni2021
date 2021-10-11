@@ -6,8 +6,6 @@ layout: home
 title: Home
 ---
 
-# CONCEPT - hieraan kunnen geen rechten ontleend worden
-
 Welkom bij de i&i conferentie-site 2021, met als thema "Coderen in de klas".
 Hier vind je het programma, en later de presentaties en andere materialen.
 
@@ -30,11 +28,7 @@ Aanmelden kan via het [formulier](https://www.smink-registratie.nl/ieni/){:targe
 ## Programma
 
 De samenvattingen van de sessies vind je onder [Programma]({{'/programma.html' | relative_url}}){:target="_blank"}
+en via het menu in de linker zijbalk.
+ 
+*Deze lijst met sessies is nog niet volledig: binnenkort meer. Houd deze site in de gaten!*
 
-[<img src="{{'assets/ieni2021-programma-v1.png' | relative_url}}" width="700">]({{'assets/ieni2021-programma-v0.png' | relative_url}}){:target="_blank"}
-
-## Sponsoren
-
-Onze sponsoren leveren een belangrijke bijdrage aan het totstandkomen van deze conferentie.
-
-<img src="{{'/public/images/sponsoren-2019-a.jpg' | relative_url}}" width="700">

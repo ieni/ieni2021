@@ -3,14 +3,18 @@ layout: programma
 title: Programma
 ---
 
-link naar het overzicht
+
 
 *Hieronder vind je de samenvattingen van de sessies.
 Meer informatie per sessie vind je via het menu links.*
 
 ## Keynote
 
+Wordt later bekend gemaakt.
+
 ## Sessies
+
+*De onderstaande lijst is nog niet volledig: later meer. Houd deze site in de gaten!*
 
 ### [Algoritmes in context](algemeen/algoritmes-jacqueline)
 
