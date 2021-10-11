@@ -1,7 +1,7 @@
 ---
 title: "Beroepsoriëntatie VMBO IT"
 spreker: "Victor Schmidt (SLO)"
-layout: dg
+layout: algemeen
 ---
 
 **Beroepsoriëntatie met het praktijkgerichte programma informatietechnologie**

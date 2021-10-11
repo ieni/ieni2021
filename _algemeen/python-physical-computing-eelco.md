@@ -1,7 +1,7 @@
 ---
 title: "Python voor Physical Computing"
 spreker: "Eelco Dijkstra"
-layout: informatica
+layout: algemeen
 ---
 
 De huidige generatie microcontrollers, zoals je deze bijvoorbeeld vindt op de microbit (V2), 

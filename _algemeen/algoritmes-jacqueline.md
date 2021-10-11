@@ -1,7 +1,7 @@
 ---
 title: "Algoritmes in context"
 spreker: Jacqueline Nijenhuis-Voogt
-layout: informatica
+layout: algemeen
 ---
  
 Algoritmes zijn regelmatig in het nieuws, 

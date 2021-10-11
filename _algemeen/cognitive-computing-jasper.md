@@ -1,7 +1,7 @@
 ---
 title: Cognitive computing
 spreker: "Michiel Smits (PCC) en Jasper Dukers (PCC, UvA)"
-layout: informatica
+layout: algemeen
 ---
 
 **Aan de slag met Cognitive Computing**

@@ -1,7 +1,7 @@
 ---
 title: "Fysica van Physical Computing"
 spreker: "Werkgroep Physical Computing"
-layout: informatica
+layout: algemeen
 ---
 
 Bij het keuzethema Physical Computing komen "programmeren" en "fysica" bij elkaar. 
