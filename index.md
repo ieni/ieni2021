@@ -23,7 +23,7 @@ De kosten van de conferentie zijn:
 * voor studenten/docenten in opleiding: 55 Euro (na 1 november 90 Euro)
 * (het i&i lidmaatschap is 35 Euro per jaar)
 
-Aanmelden kan via het [formulier](https://www.smink-registratie.nl/ieni/){:target="_blank"} .
+Aanmelden kan via het [formulier](https://www.smink-registratie.nl/ieni/){:target="_blank"}.
 
 ## Programma
 
@@ -31,4 +31,6 @@ De samenvattingen van de sessies vind je onder [Programma]({{'/programma.html' |
 en via het menu in de linker zijbalk.
  
 *Deze lijst met sessies is nog niet volledig: binnenkort meer. Houd deze site in de gaten!*
+
+[<img src="{{'/public/images/opzet-programma-ieni2021.png' | relative_url}}" width="700">]({{'/public/images/opzet-programma-ieni2021.pdf' | relative_url}}){:target="_blank"}
 
