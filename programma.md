@@ -3,6 +3,8 @@ layout: programma
 title: Programma
 ---
 
+[<img src="{{'/public/images/opzet-programma-ieni2021.png' | relative_url}}" width="700">]({{'/public/images/opzet-programma-ieni2021.pdf' | relative_url}}){:target="_blank"}
+
 *Hieronder vind je de samenvattingen van de sessies.
 Meer informatie per sessie vind je via het menu links.*
 

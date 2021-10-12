@@ -32,4 +32,4 @@ en via het menu in de linker zijbalk.
  
 *Deze lijst met sessies is nog niet volledig: binnenkort meer. Houd deze site in de gaten!*
 
-
+[<img src="{{'/public/images/opzet-programma-ieni2021.png' | relative_url}}" width="700">]({{'/public/images/opzet-programma-ieni2021.pdf' | relative_url}}){:target="_blank"}
