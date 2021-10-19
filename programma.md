@@ -126,6 +126,28 @@ Daarnaast komen allerlei handige tips aan bod hoe je Physical Computing op schoo
 Deze workshop wordt gepresenteerd door de werkgroep Physical Computing:
 als je enthousiast bent over dit onderwerp, doe dan ook mee!
 
+### [Domein Q: maatschappelijke en individuele invloed van informatica](algemeen/domein-q-ingrid)
+
+*Big data is watching you* en *Fit met de fitbit* zijn twee modules 
+waarmee domein Q van het examenprogramma informatica kan worden behandeld. 
+
+Ons leven is ingrijpend veranderd door informatietechnologie, 
+technologie heeft impact op het mensbeeld en de maatschappij.
+
+Het doel van de module *Fit met de fitbit* is om leerlingen te laten inzien en begrijpen 
+dat technologie niet objectief en waardevrij kan zijn en 
+altijd een afspiegeling vormt van bepaalde waarden en normen, 
+ook al wordt dit niet expliciet gemaakt. 
+
+In de module *Big data is watching you* komen de kunstmatige Intelligentie, 
+machine learning en KI-algoritmes aan bod. 
+Hoe werkt het en welke juridische en ethische aspecten, 
+wettelijke kaders en regels ter bescherming van het individu spelen hierbij een rol?
+
+In de workshop laten we het lesmateriaal zien en 
+gaat u ermee aan de slag. 
+Na afloop hebt u een goed beeld hoe het materiaal ingezet kan worden.
+
 
 ### [Planet Robot: bouw jouw eigen robot en doe mee!](algemeen/planet-robot-rene)
 
