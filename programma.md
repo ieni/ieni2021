@@ -168,18 +168,6 @@ In de workshop laten we het lesmateriaal zien en
 gaat u ermee aan de slag. 
 Na afloop hebt u een goed beeld hoe het materiaal ingezet kan worden.
 
-
-### [Planet Robot: bouw jouw eigen robot en doe mee!](algemeen/planet-robot-rene)
-
-*René de Wild (Instruct)*
-
-We nemen je mee naar Planet Robot! 
-We laten met een mobiele robot-arena zien hoe zelfgemaakte robots tegen elkaar strijden. 
-Daarnaast hebben we aandacht voor het ontwerp- en bouwproces en vertellen we je wat je te wachten staat als je met school meedoet aan het gaafste tech-event van Nederland. 
-Planet Robot komt tot stand door een unieke samenwerking tussen Uitgeverij Instruct, 
-DO-IT, De Koninklijke Marine, Dutch Robot Games, College de Brink, Scholen aan Zee en B-Bot.nl.
-
-
 ### [Python voor Physical Computing](algemeen/python-physical-computing-eelco)
 
 *Eelco Dijkstra*
