@@ -57,6 +57,26 @@ Denk aan ontwikkeling van een virtuele rondtoer door de binnenstad voor de midde
 een wildcamera programmeren voor de plaatselijke boswachterij. 
 In deze presentatie laten we je kennis maken met dit nieuwe verschijnsel in het vmbo.
 
+### Computational Thinking & Python
+
+Educatieve brug tussen wiskunde & informatica
+
+*Koen Stulens & Bert Wikkerink (T3 Nederland)*
+
+Daag leerlingen uit om creatief problemen aan te pakken en een machine logische algoritmes te laten uitvoeren; 
+om zo concepten te onderzoeken en te leren begrijpen. 
+Meer dan ooit is het nodig dat leerlingen inzicht krijgen in de hen omringende digitale wereld 
+om in de toekomst optimaal in te kunnen functioneren.
+Aan de hand van concrete voorbeelden – van het analyseren van data genereerd door Python 
+tot het coderen van grafische patronen of kunst –
+tonen we hoe programmeren in Python en wiskunde kunnen samenwerken en 
+hoe computational thinking interdisciplinaire bruggen bouwt.
+ 
+In 2020 organiseerde T3 Nederland een Python Bootcamp aan de hand van educatieve voorbeelden 
+over de mogelijkheden van Python in een educatieve programmeeromgeving.
+Meer info @ www.wil-depython.nl.
+ 
+
 ### [De schoonheid en vreugde van BJOC](algemeen/bjoc-kole)
 
 *Casper Kole*
@@ -69,7 +89,7 @@ Daarnaast denk je na over de maatschappelijke gevolgen van informatica.
 
 ### [Coderen in de klas: Good Practices](algemeen/coderen-dominique)
 
-*Dominique de Hon (Cosmicus)*
+*Chris van den Berg (Metis Montessori) en Birol Sakol (Lyceum Kralingen)*
 
 Ben jij benieuwd hoe docenten op de middelbare school lesgeven in coderen? 
 Welke methoden gebruiken zij? Welke programmeertalen zijn populair? 
@@ -172,6 +192,30 @@ Bovendien past dit goed bij het gebruik van Python elders in het onderwijs.
 In deze workshop gaan we aan de slag met microPython voor de microbit. 
 We behandelen een aantal standaard-programma's die je als bouwsteen kunt gebruiken 
 voor meer complexe Physical Computing toepassingen.
+
+### [Q Highschool](algemeen/q-highschool-pieter)
+
+*Pieter van Engelen*
+ 
+Als informaticadocent op [Q-Highschool](https://q-highschool.nl/){:target="_blank"}
+ben ik met mijn team bezig om een ongebruikelijke invulling 
+en organisatievorm te geven aan het informatica curriculum HV Bovenbouw. 
+Kort door de bocht gezegd hebben we het hele curriculum opgedeeld in module blokken, 
+waarmee we leerlingen van 6+ verschillende scholen in de regio Arnhem bedienen, 
+waarbij tijd- en plaatsonafhankelijk leren en 
+de leerling in de regie de maat voeren. 
+Dit biedt tal van uitdagingen: hoe regelen we dit praktisch (rooster, computer, online/offline), 
+wat voor materiaal bieden we aan, hoe toetsen we dit en 
+hoe zorgen we voor kwaliteitsborging. 
+ 
+We hebben deze noten nog verre van volledig gekraakt. 
+Met deze presentatie en discussie willen we vooral presenteren wat we hebben bereikt en 
+welke noten nog gekraakt moeten worden. 
+Ons doel is het inspireren van collega’s om eens verder te kijken 
+dan je reguliere organisatievorm en 
+voor ons om nieuwe ideeën op te doen. 
+Een presentatie van work-in-progress, 
+waarbij ik verwacht dat er behoorlijk wat gesprek met de deelnemers zal zijn.
 
 ### [Sonic Pi: leren programmeren met muziek](algemeen/sonic-pi-victoria)
 

@@ -1,6 +1,6 @@
 ---
 title: "Coderen in de klas"
-spreker: "Dominique de Hon (Cosmicus)"
+spreker: "Chris van den Berg (Metis Montessori) en Birol Sakol (Lyceum Kralingen)"
 layout: algemeen
 ---
 
