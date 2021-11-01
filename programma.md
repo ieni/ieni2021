@@ -57,7 +57,7 @@ Denk aan ontwikkeling van een virtuele rondtoer door de binnenstad voor de midde
 een wildcamera programmeren voor de plaatselijke boswachterij. 
 In deze presentatie laten we je kennis maken met dit nieuwe verschijnsel in het vmbo.
 
-### Computational Thinking & Python
+### [Computational Thinking & Python](algemeen/ct-python-koen)
 
 Educatieve brug tussen wiskunde & informatica
 
