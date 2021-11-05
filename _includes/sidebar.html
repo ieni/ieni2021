@@ -10,8 +10,10 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
+ {% comment %}
     <a class="sidebar-nav-item{% if page.title == 'Programma' %} active{% endif %}" href="{{ '/programma' | absolute_url }}">Programma</a>
     <a class="sidebar-nav-item" href="https://www.smink-registratie.nl/ieni/" target="_blank">Aanmelden</a>
+{% endcomment %}
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -20,7 +22,7 @@
     {% comment %}
     <a class="sidebar-nav-item{% if page.title == "Nieuws" %} active{% endif %}" href="{{ site.baseurl }}/nieuws.html">Nieuws</a>
     {% endcomment %}
-    
+ {% comment %}   
     <span class="sidebar-nav-item">Sessies:</span>
     {% assign algemeen_list = site.algemeen %}
     {% for node in algemeen_list %}
@@ -35,6 +37,7 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+{% endcomment %}    
 {% comment %}    
     <span class="sidebar-nav-item">Informatica:</span>
     {% assign informatica_list = site.informatica %}
