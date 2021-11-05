@@ -6,30 +6,17 @@ layout: home
 title: Home
 ---
 
-Welkom bij de i&i conferentie-site 2021, met als thema "Coderen in de klas".
-Hier vind je het programma, en later de presentaties en andere materialen.
+## Conferentie van 11 november 2011 afgelast
 
-De conferentie vindt plaats op donderdag 11 november, van 9:00-17:30 uur.
 
-De locatie is het Victor J. Koningsberger-gebouw, Budapestlaan 4a-b, 3584 CD Utrecht, op de Uithof (Utrecht Science Park).
-Dit is uitstekend bereikbaar via het OV, zoals met de Uithoflijn (tram 22, 12 min. van Utrecht CS centrumzijde naar de Uithof.)
+Vanwege de hoogoplopende Coronacijfers heeft de Universiteit van Utrecht de uitnodiging voor onze conferentie teruggetrokken.
+Dit betekent dat wij de 11e november GEEN conferentie kunnen houden.
 
-## Kosten en aanmelden
+Besloten is om alternatieven aan te bieden, waarover u zo spoedig mogelijk meer zult vernemen.
 
-De kosten van de conferentie zijn:
+Wij betreuren deze afzegging ten zeerste, mede omdat de aanmeldingen boven verwachting waren en wij er erg veel zin in hadden.
+Daar wij de deelnemers graag van de laatste ontwikkelingen en mogelijkheden op de hoogte willen brengen heet het bestuur besloten om alternatieven aan te bieden. Daarover zult u zo spoedig mogelijk meer vernemen.
+Gezien de snelle toename van het aantal besmettingen zal alles (helaas) voorlopig niet fysiek gebeuren.
 
-* voor i&i leden: 160 Euro (na 1 november 195 Euro)
-* voor niet i&i-leden: 200 Euro (na 1 november 245 Euro)
-* voor studenten/docenten in opleiding: 55 Euro (na 1 november 90 Euro)
-* (het i&i lidmaatschap is 35 Euro per jaar)
-
-Aanmelden kan via het [formulier](https://www.smink-registratie.nl/ieni/){:target="_blank"}.
-
-## Programma
-
-De samenvattingen van de sessies vind je onder [Programma]({{'/programma.html' | relative_url}}){:target="_blank"}
-en via het menu in de linker zijbalk.
- 
-*Deze lijst met sessies is nog niet volledig: binnenkort meer. Houd deze site in de gaten!*
-
-[<img src="{{'/public/images/opzet-programma-ieni2021.png' | relative_url}}" width="700">]({{'/public/images/opzet-programma-ieni2021.pdf' | relative_url}}){:target="_blank"}
+Blijf onze website volgen of beter nog, als u nog geen Nieuwsbrief ontvangt schrijft u daar dan voor in. 
+Daar zal al het verenigingsnieuws worden medegedeeld en blijft u op de hoogte.
